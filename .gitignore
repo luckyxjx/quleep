@@ -39,3 +39,4 @@ pnpm-lock.yaml
 # Dependency directories
 frontend/node_modules/
 backend/node_modules/
+
